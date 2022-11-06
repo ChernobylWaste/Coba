@@ -1,5 +1,2 @@
 print('Rekruitasi MBC 2022')
-print('We attack We protect')
-print('We attack We protect')
-print('We attack We protect')
-print('We attack We protect')
+print('Hallo')
